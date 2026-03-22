@@ -1,0 +1,40 @@
+# ---- OS / Misc ----
+.DS_Store
+*.class
+*.log
+*.pyc
+*.swp
+*.lock
+
+# ---- IDE / Editor ----
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# ---- Flutter / Dart ----
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+
+# Flutter iOS / Android generated files
+**/ios/Flutter/.last_build_id
+android/app/debug
+android/app/profile
+android/app/release
+
+# ---- Firebase / Secrets ----
+# Android Firebase
+mysampah_app/android/app/google-services.json
+# iOS Firebase
+mysampah_app/ios/Runner/GoogleService-Info.plist
+# Optional: auto-generated firebase config file
+mysampah_app/lib/firebase_options.dart
+
+# ---- YOLO / ML secrets ----
+mysampah_yolo/mysampahhero-key.json
