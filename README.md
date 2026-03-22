@@ -1,4 +1,8 @@
-# BinX Storage Level YOLO Project
+# MySampahHero Project
+
+MySampahHero is an intelligent waste management system designed to improve collection efficiency and support sustainable urban living. By combining computer vision and system integration, the solution enables real-time monitoring of bin capacity and smarter waste logistics.
+
+## BinX Storage Level YOLO Roboflow Project
 
 This repository contains the YOLO object detection project for **BinX Storage Level**, which detects waste items using images and videos. The model is trained using a dataset hosted on [Roboflow](https://roboflow.com).
 
